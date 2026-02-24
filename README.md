@@ -20,9 +20,15 @@ This looked like a lot of chats giving adjustments and changes in the functional
 and an understanding of core identity of the SilverWare's site, I began developing the other pages of the site. This included the product page that displayed a grid of rings,
 and a about me page that displayed my photo and what the mission of SilverWare is.
 
-##Takeaways
+### Interactions
+
+I implemented a few main interactions into the SilverWear website. Each ring box at movement and collisions with other rings. The ring boxes also diplay binary in the top right corner that says "ring".
+The boxes, when hovered, invert the colors of the image. The navigation menu has hover elements too, giving a soft drop shadow glow.
+
+### Takeaways
 
 Overall I learned that you can design and great layout and design in Figma, but this will mostly guide working with Cursor once the frame is input into the program.
+Cursor is very powerful and gives a lot of possiblity into your websites. There are times I reference the code when I want to make small changes but that is very rare.
 
 
 ## Design
