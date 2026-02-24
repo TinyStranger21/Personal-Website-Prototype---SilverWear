@@ -40,7 +40,7 @@ Based on the Figma design from [Silver wear web design](https://www.figma.com/de
 - **Sky & clouds background** — Animated gradient sky with floating cloud shapes
 - **Navigation** — Custom, Premade, About, Contact links
 - **Brand title** — "Silver Wear" in elegant script typography
-- **Product display** — Seven ring images arranged in an oval around the title
+- **Product display** — Seven moving ring images arranged around the title
 - **Responsive** — Adapts to mobile with stacked ring layout
 
 ## Running locally
