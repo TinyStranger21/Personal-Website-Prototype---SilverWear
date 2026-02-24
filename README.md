@@ -4,12 +4,13 @@ A landing page for Silver Wear — my personal brand and shop for handcrafted si
 
 ## Project Description
 
-<img width="1213" height="1617" alt="InitialSketchofSilverWear" src="https://github.com/user-attachments/assets/c0287e26-b57f-4a06-943e-3309961e33b9" />
+<img width="1000" height="1404" alt="InitialSketchofSilverWear" src="https://github.com/user-attachments/assets/c0287e26-b57f-4a06-943e-3309961e33b9" />
 First I started with sketching out a low fidelity idea of what the website could look like and possible functionality. 
 I really wanted there to be movement and interactive elements in the main page.
 Once I decided what images, colors, and intitial layout of some of the pages, I started creating a mid-high fidelity prototype in Figma.
 
-![initialSilverWearPage](https://github.com/user-attachments/assets/d314b7a5-1e73-4928-9652-4f366b51faa3)
+![initialSilverWearPage](https://github.com/user-attachments/assets/e2cf84f5-aa11-4ad0-8250-7642d008542c)
+
 Using this prototype in Figma, I used Cursor to reference the Frame and start the intitial development of the site.
 This wasn't the most successful but it had a lot of the core elements of the Figma prototype. This included layout and some style elements.
 The photos were also not translated into cursor so I had to attach those into cursor to replace the place holders it gave me.
