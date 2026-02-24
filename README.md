@@ -1,6 +1,6 @@
 # Silver Wear
 
-A landing page for Silver Wear — my personal brand and shop for handcrafted silver jewelry made from repurposed silverware.
+A landing page, about me page, a custom page, and premade page for Silver Wear — my personal brand and shop for handcrafted silver jewelry made from repurposed silverware.
 
 ## Project Description
 
