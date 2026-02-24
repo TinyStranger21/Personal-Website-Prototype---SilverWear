@@ -4,7 +4,8 @@ A landing page for Silver Wear — my personal brand and shop for handcrafted si
 
 ## Project Description
 
-<img width="1000" height="1404" alt="InitialSketchofSilverWear" src="https://github.com/user-attachments/assets/c0287e26-b57f-4a06-943e-3309961e33b9" />
+<img width="600" height="1004" alt="InitialSketchofSilverWear" src="https://github.com/user-attachments/assets/c0287e26-b57f-4a06-943e-3309961e33b9" />
+
 First I started with sketching out a low fidelity idea of what the website could look like and possible functionality. 
 I really wanted there to be movement and interactive elements in the main page.
 Once I decided what images, colors, and intitial layout of some of the pages, I started creating a mid-high fidelity prototype in Figma.
@@ -16,10 +17,10 @@ This wasn't the most successful but it had a lot of the core elements of the Fig
 The photos were also not translated into cursor so I had to attach those into cursor to replace the place holders it gave me.
 Once I had most of the assests inputed into cursor, I started working with cursor to develop the site in the way I originally planned.
 This looked like a lot of chats giving adjustments and changes in the functionality of the page. Once I had the landing page layed out, 
-and an understanding of core identity of the SilverWare's site,I began developing the other pages of the site. This included the product page that displayed a grid of rings,
+and an understanding of core identity of the SilverWare's site, I began developing the other pages of the site. This included the product page that displayed a grid of rings,
 and a about me page that displayed my photo and what the mission of SilverWare is.
 
-###Takeaways
+##Takeaways
 
 Overall I learned that you can design and great layout and design in Figma, but this will mostly guide working with Cursor once the frame is input into the program.
 
