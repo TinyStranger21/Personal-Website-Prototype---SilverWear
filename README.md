@@ -16,6 +16,8 @@ Once I decided what images, colors, and intitial layout of some of the pages, I 
 
 ![initialSilverWearPage](https://github.com/user-attachments/assets/e2cf84f5-aa11-4ad0-8250-7642d008542c)
 
+I created the low fidelity with the images I new I would use in the mid fidelity, which made creating the mid fidelity a lot easier. Only worked in figma to make the mid fidelity, didn't feel any need for Figma make or other tools for this design. The core of the design is to be very dreamy and resemble an earlier style of website design.
+
 Using this prototype in Figma, I used Cursor to reference the Frame and start the intitial development of the site.
 This wasn't the most successful but it had a lot of the core elements of the Figma prototype. This included layout and some style elements.
 The photos were also not translated into cursor so I had to attach those into cursor to replace the place holders it gave me.
